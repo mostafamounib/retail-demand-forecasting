@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+models/
+outputs/*predictions.csv
+outputs/submission.csv
+outputs/final_forecast_details.csv
+outputs/origin_features_sample.csv
+outputs/forecast_rows_sample.csv
