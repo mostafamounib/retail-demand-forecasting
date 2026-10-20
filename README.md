@@ -23,6 +23,17 @@ but increased average overprediction.
 The Kaggle score and local holdout score evaluate different data
 and are reported separately.
 
+## Screenshots
+
+### Holdout evaluation
+![Holdout evaluation dashboard](outputs/holdout_dashboard.png)
+
+### Future forecasts
+![Future forecasts dashboard](outputs/forecast_dashboard.png)
+
+### Kaggle submission
+![Kaggle submission score](outputs/kaggle_submission.png)
+
 ## Dataset
 
 [Kaggle Store Sales — Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
